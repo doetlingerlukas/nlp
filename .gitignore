@@ -1,3 +1,5 @@
+res/training*
+
 # Jupyter Notepad
 
 .ipynb_checkpoints/
